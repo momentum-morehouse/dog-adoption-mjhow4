@@ -1,0 +1,53 @@
+header {
+    background-color: #004175;
+    border-bottom: solid #89deef;
+    border-width: 5px;
+    height: 100px;
+    color: white;
+    font-size: xx-large;
+    font-weight: bold;
+    text-align: left;
+    padding: 50px 50px 0px;
+}
+    li {
+    display: inline;
+    background-color: #89deef;
+    border: 1px;
+    border-radius: 7.5px;
+    padding: 0px 0px;
+    margin: 2.5px;
+    font-size: 12px;
+    text-align: left;
+}
+
+.container-1 {
+display: flex;
+flex-direction: row;
+justify-content: flex-start;
+height: 100vh;
+align-items: stretch;
+flex-wrap: wrap;
+align-content: stretch;
+
+}
+    .box {
+        color: #000000;
+        font-size: 20px;
+        text-align: left;
+        padding: 100px;
+        width: 200px;
+      }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
